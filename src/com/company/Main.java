@@ -6,6 +6,7 @@ public class Main {
         // write your code here
         System.out.println("args = [" + args + "]");
         String d = "dbeg";
-        System.out.println("args = [" + args + "]");
+        System.out.println(d);
+
     }
 }
