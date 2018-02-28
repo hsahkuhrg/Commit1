@@ -6,7 +6,7 @@ public class Main {
         // write your code here
         System.out.println("args = [" + args + "]");
         String d = "dbeg";
-        System.out.println(d);
+        System.out.println(d); // sghetyh
 
     }
 }
